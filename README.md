@@ -1,4 +1,3 @@
-
 kpatch: dynamic kernel patching
 ===============================
 
