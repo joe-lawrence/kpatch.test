@@ -1,4 +1,4 @@
-kpatch: dynamic kernel patching
+  kpatch: dynamic kernel patching
 ===============================
 
 kpatch is a Linux dynamic kernel patching infrastructure which allows you to
